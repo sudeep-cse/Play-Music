@@ -44,7 +44,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 
 
 [<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/get-it-on-github.png" alt="Get it on Github" height="80">](https://github.com/gokadzev/Musify/releases/latest)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.gokadzev.musify.fdroid)
+
 
 ---
 
@@ -82,19 +82,13 @@ See the [GNU General Public License](https://github.com/gokadzev/Musify/blob/mas
 
 ## Contribute
 
-Contributions are always welcome. Please read our [contributing guidelines](https://github.com/gokadzev/Musify/blob/master/CONTRIBUTING.md) before contributing.
+Contributions are always welcome. Please read our [contributing guidelines](https://github.com/sudeep-cse/Play-Music/blob/master/CONTRIBUTING.md) before contributing.
 
 ---
 
 ## F.A.Q
 
-You can see frequently asked questions and their answers [here](https://github.com/gokadzev/Musify/discussions/340).
-
----
-
-## Credits
-
-[Musify](https://github.com/Harsh-23/Musify) - Original inspiration for the concept and app name, while our implementation took a different direction with a complete rewrite, a rebranded logo, and a redesigned layout and UI.
+You can see frequently asked questions and their answers [here](https://github.com/sudeep-cse/Play-Music/discussions/340).
 
 ---
 
