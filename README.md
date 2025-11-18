@@ -1,21 +1,10 @@
-<div align="center">
-<img src="https://github.com/gokadzev/Musify/raw/master/repository_files/Musify-banner.png" width="100%">
 
-# Musify
 
-Unlock the full potential of music: Stream effortlessly with one app!
-
-[![Stars](https://img.shields.io/github/stars/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/stargazers)
-[![Forks](https://img.shields.io/github/forks/gokadzev/Musify?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/fork)
-[![Downloads](https://img.shields.io/github/downloads/gokadzev/Musify/total?style=flat-square&color=D3BEAB)](https://github.com/gokadzev/Musify/releases)
-[![GitHub release](https://img.shields.io/github/v/release/gokadzev/Musify?color=D3BEAB)](https://github.com/gokadzev/Musify/releases)
-[![License](https://img.shields.io/github/license/gokadzev/Musify?color=D3BEAB)](LICENSE)
+# Play Music
 
 ---
 
-<a href="https://ko-fi.com/gokadzev" target="_blank" title="ko-fi">
-  <img src="https://github.com/user-attachments/assets/1c204507-d124-4b34-878b-96c39c9bb3f8"  alt="ko-fi badge" style="width: 150px;">
-</a>
+
 
 
 
